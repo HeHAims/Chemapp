@@ -1,43 +1,56 @@
-# ChemApp Internal Visual Lookup
+# ChemApp
 
-Internal visual lookup tool for furniture inventory.
+Internal Visual Inventory Lookup Tool for Fresh Wata Rentals. This repository contains structured JSON datasets for rental categories (barstools, chairs, sofas, cafe/console/dining, coffee tables, side tables, highboys, carts, lighting, shelving, walls, charging, and props + misc), along with frontend code for visual search and lookup.
 
 ## Features
 
-- Search products by name
-- Filter by category: barstools, chairs, sofas, ottomans
-- Open product pages quickly
-- Scrape any category page and auto-save:
-  - Product name
-  - Product URL
-  - Product image (from product page)
+- Structured inventory JSON files by category
+- Consolidated master inventory for frontend lookup
+- Search products by name and browse by category
+- Product URL mapping to live rental pages
 
-## Run locally
+## Project Layout
 
-1. Open this folder in a terminal.
-2. Install dependencies:
+- `data/inventory.json`: legacy seating inventory dataset
+- `fw-inventory-lookup/data/*.json`: category datasets for lookup app
+- `fw-inventory-lookup/data/master.json`: aggregated inventory dataset
+- `fw-inventory-lookup/src/`: React frontend
+- `app.py` and `static/`: Flask-based prototype UI
+
+## Run Flask Prototype
+
+1. Install dependencies:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-3. Start app:
+2. Start app:
 
 ```bash
 python app.py
 ```
 
-4. Open in browser:
+3. Open:
 
 http://127.0.0.1:8000
 
-## Suggested category URLs
+## Run React Lookup App
 
-- Barstools: https://fwrental.com/seating/barstools
-- Chairs: https://fwrental.com/seating/chairs
-- Sofas: https://fwrental.com/lounge-seating/sofas
-- Ottomans: https://fwrental.com/lounge-seating/ottomans-benches
+1. Go to app folder:
 
-## Data file
+```bash
+cd fw-inventory-lookup
+```
 
-Saved inventory is in `data/inventory.json`.
+2. Install dependencies:
+
+```bash
+npm install
+```
+
+3. Start development server:
+
+```bash
+npm start
+```
