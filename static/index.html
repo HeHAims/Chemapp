@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>ChemApp Visual Lookup</title>
+    <link rel="stylesheet" href="/static/styles.css" />
+  </head>
+  <body>
+    <header class="hero">
+      <h1>ChemApp Internal Visual Lookup</h1>
+      <p>Search inventory, open product pages, and scrape categories with images.</p>
+    </header>
+
+    <main>
+      <section class="panel controls">
+        <div class="row">
+          <label for="categoryFilter">Category</label>
+          <select id="categoryFilter">
+            <option value="all">All</option>
+            <option value="barstools">Barstools</option>
+            <option value="chairs">Chairs</option>
+            <option value="sofas">Sofas</option>
+            <option value="ottomans">Ottomans</option>
+          </select>
+        </div>
+
+        <div class="row">
+          <label for="searchInput">Search</label>
+          <input id="searchInput" type="text" placeholder="Type a product name..." />
+        </div>
+
+        <div class="row stats">
+          <span id="statsText">0 items</span>
+        </div>
+      </section>
+
+      <section class="panel controls">
+        <h2>Scrape New Category Data</h2>
+
+        <div class="row">
+          <label for="scrapeCategory">Category</label>
+          <select id="scrapeCategory">
+            <option value="chairs">Chairs</option>
+            <option value="sofas">Sofas</option>
+            <option value="ottomans">Ottomans</option>
+            <option value="barstools">Barstools</option>
+          </select>
+        </div>
+
+        <div class="row">
+          <label for="scrapeUrl">Category URL</label>
+          <input
+            id="scrapeUrl"
+            type="text"
+            placeholder="https://fwrental.com/seating/chairs"
+          />
+        </div>
+
+        <div class="row buttons">
+          <button id="scrapeButton" type="button">Scrape and Save</button>
+          <button id="refreshButton" type="button" class="secondary">Refresh Data</button>
+        </div>
+
+        <p id="scrapeStatus" class="status"></p>
+      </section>
+
+      <section id="cards" class="grid"></section>
+    </main>
+
+    <template id="cardTemplate">
+      <article class="card">
+        <div class="thumb-wrap">
+          <img class="thumb" alt="" loading="lazy" />
+        </div>
+        <div class="card-body">
+          <h3 class="item-name"></h3>
+          <p class="item-category"></p>
+          <a class="item-link" href="#" target="_blank" rel="noreferrer">Open product page</a>
+        </div>
+      </article>
+    </template>
+
+    <script src="/static/app.js" defer></script>
+  </body>
+</html>

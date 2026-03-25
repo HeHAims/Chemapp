@@ -1,0 +1,103 @@
+{
+  "localCounts": {
+    "barstools": 76,
+    "chairs": 198,
+    "sofas": 88,
+    "cafe_console_dining": 45,
+    "coffee_tables": 60,
+    "side_tables": 91,
+    "highboys": 54,
+    "carts": 10,
+    "lighting": 22,
+    "shelving": 11,
+    "walls": 53,
+    "charging": 7,
+    "props_misc": 126
+  },
+  "coverage": {
+    "barstools": {
+      "site": 76,
+      "local": 76,
+      "match": 76,
+      "missing": 0
+    },
+    "chairs": {
+      "site": 198,
+      "local": 198,
+      "match": 198,
+      "missing": 0
+    },
+    "sofas": {
+      "site": 88,
+      "local": 88,
+      "match": 88,
+      "missing": 0
+    },
+    "cafe_console_dining": {
+      "site": 45,
+      "local": 45,
+      "match": 45,
+      "missing": 0
+    },
+    "coffee_tables": {
+      "site": 60,
+      "local": 60,
+      "match": 60,
+      "missing": 0
+    },
+    "side_tables": {
+      "site": 91,
+      "local": 91,
+      "match": 91,
+      "missing": 0
+    },
+    "highboys": {
+      "site": 54,
+      "local": 54,
+      "match": 54,
+      "missing": 0
+    },
+    "carts": {
+      "site": 10,
+      "local": 10,
+      "match": 10,
+      "missing": 0
+    },
+    "lighting": {
+      "site": 22,
+      "local": 22,
+      "match": 22,
+      "missing": 0
+    },
+    "shelving": {
+      "site": 11,
+      "local": 11,
+      "match": 11,
+      "missing": 0
+    },
+    "walls": {
+      "site": 53,
+      "local": 53,
+      "match": 53,
+      "missing": 0
+    },
+    "charging": {
+      "site": 7,
+      "local": 7,
+      "match": 7,
+      "missing": 0
+    },
+    "props_misc": {
+      "site": 126,
+      "local": 126,
+      "match": 126,
+      "missing": 0
+    }
+  },
+  "legacySeating": {
+    "barstools": 76,
+    "chairs": 198,
+    "sofas": 88
+  },
+  "localTotal": 841
+}

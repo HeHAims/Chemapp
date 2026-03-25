@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CMIS Inventory Tool</title>
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <aside class="panel sidebar">
+        <div class="panel-header">
+          <h1>Inventory</h1>
+          <p>Categories</p>
+        </div>
+        <nav id="categoryTree" class="tree"></nav>
+      </aside>
+
+      <main class="panel middle">
+        <div class="panel-header">
+          <h2 id="listTitle">Select a subcategory</h2>
+          <p id="listMeta">No items loaded</p>
+        </div>
+        <ul id="itemList" class="item-list"></ul>
+      </main>
+
+      <section class="panel preview">
+        <div class="panel-header">
+          <h2>Preview</h2>
+          <p id="previewName">No item selected</p>
+        </div>
+
+        <div class="preview-frame">
+          <img id="previewImage" alt="Item preview" />
+          <div id="previewEmpty" class="preview-empty">Click an item to preview image</div>
+        </div>
+
+        <a id="previewLink" class="preview-link hidden" href="#" target="_blank" rel="noreferrer">Open source page</a>
+      </section>
+    </div>
+
+    <div class="watermark">CMIS</div>
+    <script src="./app.js"></script>
+  </body>
+</html>

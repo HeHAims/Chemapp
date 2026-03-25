@@ -1,0 +1,264 @@
+{
+  "categories": [
+    {
+      "name": "Seating",
+      "subcategories": [
+        {
+          "name": "Barstools",
+          "items": [
+            {
+              "name": "Aliza",
+              "url": "https://fwrental.com/product/aliza/",
+              "image": "https://fwrental.com/wp-content/uploads/2021/07/ALIZA-BARSTOOL.jpg"
+            },
+            {
+              "name": "Annie",
+              "url": "https://fwrental.com/product/annie/",
+              "image": "https://fwrental.com/wp-content/uploads/2021/07/ANNIE-BARSTOOL.jpg"
+            },
+            {
+              "name": "Vesper",
+              "url": "https://fwrental.com/product/vesper/",
+              "image": "https://fwrental.com/wp-content/uploads/2023/10/Vesper-Barstool.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Chairs",
+          "items": [
+            {
+              "name": "Alyssa Chair - Green",
+              "url": "https://fwrental.com/product/alyssa-chair-green/",
+              "image": "https://fwrental.com/wp-content/uploads/2023/03/ALYSSA-CHAIR-GREEN.jpg"
+            },
+            {
+              "name": "Cloud Chair - Cream",
+              "url": "https://fwrental.com/product/cloud-chair-cream/",
+              "image": "https://fwrental.com/wp-content/uploads/2022/10/CLOUD-CHAIR-CREAM.jpg"
+            },
+            {
+              "name": "Mochi",
+              "url": "https://fwrental.com/product/mochi/",
+              "image": "https://fwrental.com/wp-content/uploads/2021/11/MOCHI-CHAIR.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Sofas",
+          "items": [
+            {
+              "name": "Addison",
+              "url": "https://fwrental.com/product/addison/",
+              "image": "https://fwrental.com/wp-content/uploads/2022/09/ADDISON-SOFA.jpg"
+            },
+            {
+              "name": "Noah",
+              "url": "https://fwrental.com/product/noah/",
+              "image": "https://fwrental.com/wp-content/uploads/2021/09/NOAH-SOFA.jpg"
+            },
+            {
+              "name": "Sage - Forest Green",
+              "url": "https://fwrental.com/product/sage-forest-green/",
+              "image": "https://fwrental.com/wp-content/uploads/2023/01/SAGE-FOREST-GREEN.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tables + Bars",
+      "subcategories": [
+        {
+          "name": "Bars",
+          "items": [
+            {
+              "name": "Asteroid",
+              "url": "https://fwrental.com/product/asteroid/",
+              "image": "https://fwrental.com/wp-content/uploads/2022/06/ASTEROID-BAR.jpg"
+            },
+            {
+              "name": "Bellini - Black and Gold",
+              "url": "https://fwrental.com/product/bellini-black-and-gold/",
+              "image": "https://fwrental.com/wp-content/uploads/2023/02/BELLINI-BLACK-GOLD.jpg"
+            },
+            {
+              "name": "Mirror",
+              "url": "https://fwrental.com/product/mirror/",
+              "image": "https://fwrental.com/wp-content/uploads/2022/07/MIRROR-BAR.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Highboys",
+          "items": [
+            {
+              "name": "Abyss",
+              "url": "https://fwrental.com/product/abyss/",
+              "image": "https://fwrental.com/wp-content/uploads/2020/08/ABYSS-HIGHBOY.jpg"
+            },
+            {
+              "name": "Junie Highboy",
+              "url": "https://fwrental.com/product/junie-highboy/",
+              "image": "https://fwrental.com/wp-content/uploads/2023/01/JUNIE-HIGHBOY.jpg"
+            },
+            {
+              "name": "Zetter - White",
+              "url": "https://fwrental.com/product/zetter-white/",
+              "image": "https://fwrental.com/wp-content/uploads/2021/03/ZETTER-WHITE-HIGHBOY.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Coffee Tables",
+          "items": [
+            {
+              "name": "Aubrey Coffee Table",
+              "url": "https://fwrental.com/product/aubrey-coffee-table/",
+              "image": "https://fwrental.com/wp-content/uploads/2022/03/AUBREY-COFFEE-TABLE.jpg"
+            },
+            {
+              "name": "Luna",
+              "url": "https://fwrental.com/product/luna/",
+              "image": "https://fwrental.com/wp-content/uploads/2021/06/LUNA-COFFEE-TABLE.jpg"
+            },
+            {
+              "name": "Zen",
+              "url": "https://fwrental.com/product/zen/",
+              "image": "https://fwrental.com/wp-content/uploads/2022/04/ZEN-COFFEE-TABLE.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Decor",
+      "subcategories": [
+        {
+          "name": "Lighting",
+          "items": [
+            {
+              "name": "Brassy",
+              "url": "https://fwrental.com/product/brassy/",
+              "image": "https://fwrental.com/wp-content/uploads/2022/09/BRASSY-LAMP.jpg"
+            },
+            {
+              "name": "LED Uplights",
+              "url": "https://fwrental.com/product/led-uplights/",
+              "image": "https://fwrental.com/wp-content/uploads/2022/08/LED-UPLIGHTS.jpg"
+            },
+            {
+              "name": "Vintage Floorlamp",
+              "url": "https://fwrental.com/product/vintage-floorlamp/",
+              "image": "https://fwrental.com/wp-content/uploads/2021/09/VINTAGE-FLOORLAMP.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Shelving",
+          "items": [
+            {
+              "name": "Back Bar",
+              "url": "https://fwrental.com/product/back-bar/",
+              "image": "https://fwrental.com/wp-content/uploads/2021/05/BACK-BAR.jpg"
+            },
+            {
+              "name": "Metro Shelf",
+              "url": "https://fwrental.com/product/metro-shelf/",
+              "image": "https://fwrental.com/wp-content/uploads/2022/11/METRO-SHELF.jpg"
+            },
+            {
+              "name": "Ryker - White",
+              "url": "https://fwrental.com/product/ryker-white/",
+              "image": "https://fwrental.com/wp-content/uploads/2023/05/RYKER-WHITE.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Walls",
+          "items": [
+            {
+              "name": "Abstract Wall",
+              "url": "https://fwrental.com/product/abstract-wall/",
+              "image": "https://fwrental.com/wp-content/uploads/2022/02/ABSTRACT-WALL.jpg"
+            },
+            {
+              "name": "Champagne Wall",
+              "url": "https://fwrental.com/product/champagne-wall/",
+              "image": "https://fwrental.com/wp-content/uploads/2021/10/CHAMPAGNE-WALL.jpg"
+            },
+            {
+              "name": "Zen Wall",
+              "url": "https://fwrental.com/product/zen-wall/",
+              "image": "https://fwrental.com/wp-content/uploads/2022/01/ZEN-WALL.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Props",
+      "subcategories": [
+        {
+          "name": "Carts",
+          "items": [
+            {
+              "name": "Hot Diggity",
+              "url": "https://fwrental.com/product/hot-diggity/",
+              "image": "https://fwrental.com/wp-content/uploads/2021/11/HOT-DIGGITY-CART.jpg"
+            },
+            {
+              "name": "On the Go",
+              "url": "https://fwrental.com/product/on-the-go/",
+              "image": "https://fwrental.com/wp-content/uploads/2022/04/ON-THE-GO-CART.jpg"
+            },
+            {
+              "name": "Roll Out - White",
+              "url": "https://fwrental.com/product/roll-out-white/",
+              "image": "https://fwrental.com/wp-content/uploads/2022/04/ROLL-OUT-WHITE.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Charging",
+          "items": [
+            {
+              "name": "Montecito",
+              "url": "https://fwrental.com/product/montecito/",
+              "image": "https://fwrental.com/wp-content/uploads/2020/12/MONTECITO-CHARGING.jpg"
+            },
+            {
+              "name": "Power Up",
+              "url": "https://fwrental.com/product/power-up/",
+              "image": "https://fwrental.com/wp-content/uploads/2021/06/POWER-UP.jpg"
+            },
+            {
+              "name": "Zetter Charge - White",
+              "url": "https://fwrental.com/product/zetter-charge-white/",
+              "image": "https://fwrental.com/wp-content/uploads/2023/06/ZETTER-CHARGE-WHITE.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Miscellaneous",
+          "items": [
+            {
+              "name": "Acrylic Podium",
+              "url": "https://fwrental.com/product/acrylic-podium/",
+              "image": "https://fwrental.com/wp-content/uploads/2021/08/ACRYLIC-PODIUM.jpg"
+            },
+            {
+              "name": "Photo Booth",
+              "url": "https://fwrental.com/product/photo-booth/",
+              "image": "https://fwrental.com/wp-content/uploads/2022/06/PHOTO-BOOTH.jpg"
+            },
+            {
+              "name": "SEG Frame",
+              "url": "https://fwrental.com/product/seg-frame/",
+              "image": "https://fwrental.com/wp-content/uploads/2020/09/SEG-FRAME.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
