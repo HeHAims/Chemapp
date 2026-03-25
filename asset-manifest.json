@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Chemapp/static/css/main.ecb5a206.css",
+    "main.js": "/Chemapp/static/js/main.ffea1fa3.js",
+    "index.html": "/Chemapp/index.html",
+    "main.ecb5a206.css.map": "/Chemapp/static/css/main.ecb5a206.css.map",
+    "main.ffea1fa3.js.map": "/Chemapp/static/js/main.ffea1fa3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ecb5a206.css",
+    "static/js/main.ffea1fa3.js"
+  ]
+}
